@@ -28,6 +28,6 @@ Big-O gösterimini yazınız.
 
 ```cadence
 Her bir adım O(n) , kaç defa O(n) yapılıyor dersek o zaman da 2^x = n  oda logn = x olur.
-Bütün hepsini dahi edersek O(nlogn)
+Bütün hepsini dahil edersek O(nlogn)
 
 ```
